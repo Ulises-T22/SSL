@@ -33,6 +33,11 @@
   • Compilador:  minGW(gcc).
   
   • Versión del Compilador: gcc.exe (Rev2, Built by MSYS2 project) 14.2.0.
+
+    (Esto lo averigüe usando el comando "gcc --version" en la terminal de minGW.)
   
   • Versión del Lenguaje: C23.
 
+    (Esto lo averigüe al probar compilar el programa "Hello.c" en la versión mas actual de C agregando el comando 
+    "-std=c23" al final y dado que pude ejecutar el programa sin ningún problema de ahora en mas agregaré dicho 
+    comando a mi proceso de compilación para forzar el usar dicha versión.)
