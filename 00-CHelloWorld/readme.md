@@ -22,7 +22,7 @@ Adquirir y preparar los recursos necesarias para resolver los trabajos del curso
 
 # Resolución
 ----------------------------------------------------------------------------
-  °Compilador:  minGW(gcc) 
-  °Versión del Compilador: gcc.exe (Rev2, Built by MSYS2 project) 14.2.0
+  °Compilador:  minGW(gcc) \n
+  °Versión del Compilador: gcc.exe (Rev2, Built by MSYS2 project) 14.2.0 \n
   °Versión del Lenguaje: C23
 ----------------------------------------------------------------------------
